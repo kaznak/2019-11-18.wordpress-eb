@@ -1,0 +1,12 @@
+# -*- mode: gitignore; -*-
+
+# gitignore https://github.com/github/gitignore
+
+# Emacs 
+*~
+\#*\#
+.\#*
+
+# Vi
+*.swp
+
