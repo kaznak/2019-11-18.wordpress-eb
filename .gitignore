@@ -10,3 +10,6 @@
 # Vi
 *.swp
 
+#
+/wordpress/
+eb-package.zip
