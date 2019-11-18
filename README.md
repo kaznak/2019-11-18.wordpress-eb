@@ -10,8 +10,8 @@ Setup one node wordpress host with installing mysql server.
 Change value in ``.ebextensions/linux-setup.config`` of below lines:
 
 ~~~
-      PASSWD=eDptDk9ybchyqu0i
-      DATABASE=wordpress
+      PASSWD: eDptDk9ybchyqu0i
+      DATABASE: wordpress
 ~~~
 
 ### 2. download and package
